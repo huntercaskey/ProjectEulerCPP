@@ -6,7 +6,7 @@
 //  Copyright © 2016 Hunter Caskey. All rights reserved.
 //
 
-// Hello WORLD
+// Hello world.
 
 #include <iostream>
 
